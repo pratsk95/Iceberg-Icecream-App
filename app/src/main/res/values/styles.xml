@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#E53935</item>
+        <item name="colorPrimaryDark">#D32F2F</item>
+        <item name="colorAccent">#FFD740</item>
+        <item name="actionBarItemBackground">@drawable/choco</item>
+
+    </style>
+    <style name="headerTextStyle">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#fff</item>
+
+    </style>
+
+</resources>

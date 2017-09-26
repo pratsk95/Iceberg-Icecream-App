@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Iceburg Icecream</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="ORDER" />
+    <string name="o" />
+    <string name="Chocolate">Chocolate</string>
+    <string name="Name">Name</string>
+</resources>
